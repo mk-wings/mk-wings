@@ -26,13 +26,13 @@ I build **websites and tools** with **Python, JavaScript, HTML/CSS and MySQL**, 
 ### Intermediate HTML & CSS
 **About:** Intermediate HTML and CSS for building organized, responsive websites: forms and validation, tables, SVG, positioning, CSS functions, CSS Grid, and frameworks.
 
-- Presentation: [PDF](https://github.com/mk-wings/theodinproject/blob/main/intermediate-html-css/presentation.pdf)
+- Presentation: [PDF](https://canva.link/0fdeqfd0047wsef)
 - Practical work: [Admin Dashboard](https://github.com/mk-wings/theodinproject/tree/main/intermediate-html-css/admin-dashboard) · [Auth Form](https://github.com/mk-wings/theodinproject/tree/main/intermediate-html-css/auth-form)
 
 ### JavaScript
 **About:** Organizing JavaScript code and building interactive projects with objects, constructors, factory functions, and the module pattern.
 
-- Presentation: [PDF](https://github.com/mk-wings/theodinproject/blob/main/javascript/presentation.pdf)
+- Presentation: [PDF](https://canva.link/c8ao9bqmvvq3yiy)
 - Practical work: [Library](https://github.com/mk-wings/theodinproject/tree/main/javascript/library) · [Tic-Tac-Toe](https://github.com/mk-wings/theodinproject/tree/main/javascript/tic-tac-toe)
 
 ## Past projects
